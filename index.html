@@ -11,13 +11,16 @@
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/Logo/Logo2.webp" />
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/Logo/Logo2.webp" />
     <!-- Fin de los favicones -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet" />
+    <!-- Mi Responsive Bootstrap -->
     <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
-    <link href="https://fonts.googleapis.com/css2?family=Cabin&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
-    <link rel="stylesheet" href="assets/vendors/animate/custom-animate.css" />
+    <!-- Mis Iconos -->
     <link rel="stylesheet" href="assets/vendors/fontawesome/css/all.min.css" />
+    <!-- MIS ANIMACIONES DE APARICION -->
+    <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
+    <!-- Mis Fuentes -->
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet" />
+   
+    <link rel="stylesheet" href="assets/vendors/animate/custom-animate.css" />
     <link rel="stylesheet" href="assets/vendors/jarallax/jarallax.css" />
     <link rel="stylesheet" href="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.css" />
     <link rel="stylesheet" href="assets/vendors/nouislider/nouislider.min.css" />
@@ -31,9 +34,7 @@
     <link rel="stylesheet" href="assets/vendors/owl-carousel/owl.theme.default.min.css" />
     <link rel="stylesheet" href="assets/vendors/bxslider/jquery.bxslider.css" />
     <link rel="stylesheet" href="assets/vendors/bootstrap-select/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/vendors/vegas/vegas.min.css" />
     <link rel="stylesheet" href="assets/vendors/jquery-ui/jquery-ui.css" />
-    <link rel="stylesheet" href="assets/vendors/timepicker/timePicker.css" />
     <link rel="stylesheet" href="assets/css/estilos.css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
     <link rel="stylesheet" href="assets/css/conult.css" />
@@ -737,10 +738,7 @@
 
     <!--Testimonial One Start-->
     <section class="testimonial-one">
-        <div class="testimonial-one-map" style="
-            background-image: url(assets/images/shapes/testimonial-one-map.png);
-          "></div>
-        <div class="container">
+             <div class="container">
             <div class="section-title text-center">
                 <h2 class="section-title__title">Feedback de nuestros clientes</h2>
             </div>
@@ -1364,7 +1362,6 @@
         <script src="assets/vendors/jarallax/jarallax.min.js"></script>
         <script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
         <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
-        <script src="assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
         <script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
         <script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
         <script src="assets/vendors/nouislider/nouislider.min.js"></script>
@@ -1378,9 +1375,7 @@
         <script src="assets/vendors/owl-carousel/owl.carousel.min.js"></script>
         <script src="assets/vendors/bxslider/jquery.bxslider.min.js"></script>
         <script src="assets/vendors/bootstrap-select/js/bootstrap-select.min.js"></script>
-        <script src="assets/vendors/vegas/vegas.min.js"></script>
         <script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
-        <script src="assets/vendors/timepicker/timePicker.js"></script>
 
         <!-- template js -->
         <script src="assets/js/conult.js"></script>
