@@ -45,9 +45,9 @@
     <a href="https://api.whatsapp.com/send?phone=573214923410&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20ProEmpresarial" class="botonWhatsapp" target="_blank">
         <i class="fa fa-whatsapp my-botonWhatsapp"></i>
     </a>
-    <div class="preloader">
+    <!-- <div class="preloader">
         <img class="preloader__image" width="30%" height="30%" src="assets/images/Logo/Logo2.webp" alt="" />
-    </div>
+    </div> -->
     <!-- /.preloader -->
     <div class="page-wrapper">
         <header class="main-header clearfix">
@@ -106,14 +106,14 @@
                                 <li class="dropdown">
                                     <a href="#">Programas</a>
                                     <ul>
-                                        <li><a href="">Reservar</a></li>
-                                        <li><a href="">Liderazgo</a></li>
-                                        <li><a href="">Coaching</a></li>
-                                        <li><a href="">Ventas</a></li>
-                                        <li><a href="">Servicio al cliente</a></li>
-                                        <li><a href="">Mentes Maestras</a></li>
-                                        <li><a href="">Formador de formadores</a></li>
-                                        <li><a href="">Las Vacas No Dan Leche</a></li>
+                                        <li><a href="#">Reservar</a></li>
+                                        <li><a href="#">Liderazgo</a></li>
+                                        <li><a href="#">Coaching</a></li>
+                                        <li><a href="#">Ventas</a></li>
+                                        <li><a href="#">Servicio al cliente</a></li>
+                                        <li><a href="#">Mentes Maestras</a></li>
+                                        <li><a href="#">Formador de formadores</a></li>
+                                        <li><a href="#">Las Vacas No Dan Leche</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="#">Pruebas</a></li>
