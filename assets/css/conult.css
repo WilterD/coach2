@@ -2157,7 +2157,10 @@ ul {
 }
 
 .feature-one__img img {
-  width: 100%;
+  width: 70%;
+  height: 10%;
+  text-align: center;
+  justify-content: center;
 }
 
 .feature-one__icon-box {
